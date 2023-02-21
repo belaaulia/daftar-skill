@@ -12,4 +12,11 @@
 - Administrasi Infrastruktur Jaringan
 - Kewirausahaan
 - WAN (Wide Area Network)
-dan lain-lain
+
+++ skill dari RUCOM ++
+- Mengetik 10 Jari
+- Freecode Camp responsive web design(html,css,javascript)
+- Bootable Linux
+- Visual Studio
+- Sololearn (introduction to HTML, introduction to CSS, introduction to javascript, jQuery, PHP, Coding for marketers, Responsive web design, web developments    fundamentals)
+- Buat akun Linkedin dan mengumpulkan sertifikat Sololearn
